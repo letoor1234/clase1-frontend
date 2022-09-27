@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-image: url("assets/wallpaper.jpg");
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 12px;
+
+  border: 2px solid #ccc;
+  border-top: 1px dotted #116011;
+  border-bottom: 2px solid red;
+
+  margin: 15px;
+  margin-left: 24px;
+
+  padding: 18px;
+}
+
+.m-16 {
+  margin: 16px;
+}
+.m-32 {
+  margin: 32px;
+}
+
+#background {
+  width: 75vw;
+  margin: 0 auto;
+  display: block;
+}
